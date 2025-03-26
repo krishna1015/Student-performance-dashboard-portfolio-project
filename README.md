@@ -24,21 +24,11 @@ This project has two Power BI dashboards to help you understand student data.
 * Charts showing enrollment trends over time.
 * Charts showing payment details.
 * Information about books returned.
+ ![image](https://github.com/krishna1015/Student-performance-dashboard-portfolio-project/blob/main/Screenshot%20(130).png)
 
 ##   📂 Data Source
 
 The data for these dashboards comes from a "click consulting" database with student information.
-
-**Here's the information we use:**
-
-* `FullName`: Student's full name
-* `CalcGrade`: Student's grade (A, B, C)
-* `Enrollment Date`: When the student enrolled
-* `Country`: Student's country
-* `Department`: Student's department (Arts, Commerce, etc.)
-* `Payment Method`: How the student paid
-* `Created Date`: When the student's record was made
-* `Student ID`: Student's unique ID
 
 ##   📊 Setup
 
